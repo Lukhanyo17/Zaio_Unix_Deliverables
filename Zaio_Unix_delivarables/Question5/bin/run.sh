@@ -1,4 +1,4 @@
-#!/Yonela/bin/bash
+#!/Lukhanyo/bin/bash
 FILE=/script_answers.txt
 
 if test -f "$FILE"; then
